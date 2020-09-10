@@ -1,0 +1,2 @@
+# Sentiment_analysis_VADER
+Extract the sentiment score (-1 for negative, 0 for neutral and 1 for positive) from any given text using the vaderSentiment library.   VADER stands for Valence Aware Dictionary and sEntiment Reasoner, which is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on text from other domains.  Installing the requirements for this tutorial:  pip install vaderSentiment
